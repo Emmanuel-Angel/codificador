@@ -29,9 +29,11 @@ validación cuando se ingresa un caracter y muestra un mensaje
 
 al ingresar caracteres especiales se eliminan automaticamente antes de poder codificarlas
 
-al ingresar mayusculas se cambian en automatico para evitar romper el código
+al ingresar mayusculas se cambian en automatico para evitar romper el código.
 
 solo acepta como caracter especial la "coma"(,).
+
+Valida si el mensaje o texto ingresado está encriptado o viceversa al dar click en cualquier botón, para evitar encriptar la misma palabra más de una vez.
 
 se eliminan los mensajes, cuando se encripta/desencripta y cuando se copia.
 
